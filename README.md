@@ -5,7 +5,7 @@ An open source computational physics book
 
 At the time of writing this, I am a PhD student at the Okinawa Institute of Science and Technology, studying in the Quantum Systems Unit.
 I do not claim to be a computational physics guru, but I am learning everything I can about the craft now.
-As I learn more, I have strongly desired a concise and readable guide to learning many algorithms, and though texts like \textit{Numerical Recipes} are decent guides, they are often not explicitly written for a physicist in mind.
+As I learn more, I have strongly desired a concise and readable guide to learning many algorithms, and though texts like *Numerical Recipes* are decent guides, they are often not explicitly written for a physicist in mind.
 For these reasons, I have decided to chronicle my adventures in learning different computational physics algorithms, with the hope of improving both my own skills and helping anyone else who might be in a similar situation.
 
 At the time of writing, I have no intention of ever monetizing this content. 
